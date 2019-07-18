@@ -1,0 +1,11 @@
+DI
+1. Crear las clases/interfaces necesarias para poder enviar un mensaje, tanto por WhatsApp o Telegram.
+
+IS
+1. Crear las clases/interfaces necesarias para poder crear instanciar un pokemon no evolucionado y un pokemon evolucionado.
+
+OP
+1. Crear una interfaces MovimientosComunes para ser implementada en las diferentes clases de PokemonElectrico y PokemonAquatico.
+
+SR
+1. Crear una clase que represente a un pokemon tipo fuego

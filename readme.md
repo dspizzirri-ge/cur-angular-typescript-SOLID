@@ -1,13 +1,36 @@
 Breves ejemplos de como implementar los principios de programacion SOLID con typescript.
-
 Los ejemplos fueron tomados de la siguiente pagina web
-
 https://medium.com/eduesqui/solid-e79c3f7eb459
 
+Requisitos:
+----------
+* Instalar node
+* Instalar typescript
 
-Pagina oficial de typescript 
-https://www.typescriptlang.org
+Para ejecutar
+-------------
+* tsc -p tsconfig.json 
+* node decoradores.js
+* node-inspect decoradores.js
 
+Para debuggear
+--------------
+* node-inspect 
+Documentacion para comandos: https://nodejs.org/api/debugger.html
 
-Pagina opcional para ejecutar codigo
-https://repl.it
+* Visual Studio Code
+Opcion Debug. 
+
+Otras opciones de debug
+URL: https://nodejs.org/de/docs/guides/debugging-getting-started/
+
+Instalaciones
+-------------
+1. node-inspect: https://github.com/nodejs/node-inspect 
+1.1 comandos: https://nodejs.org/api/debugger.html
+
+2. node: https://nodejs.org/es/
+2.1 Ubuntu repositorio: sudo apt-get install nodejs
+
+3. typescript: https://www.typescriptlang.org/index.html
+
